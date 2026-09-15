@@ -18,12 +18,12 @@ I am a focused Backend Developer based in Nigeria, specializing in building reli
 🗄️ **Student Portal API**
 - A robust backend API built with Node.js, Express, and MongoDB featuring secure JWT authentication and route middleware protection.
 
-📋 ****
+📋 **Shopping Database API**
 - A server-side data processing engine handling complex database logic, custom data validation, and automated error handling workflows.
 
 ---
 
 📬 **Connect with me:**
-- **LinkedIn:** [://linkedin.com](https://linkedin.com)
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/emmanuel-akande-john-286215402?utm_source=share&u
+- **Email:** emmanueljohnakande08@gmail.com
 -
