@@ -15,10 +15,10 @@ I am a focused Backend Developer based in Nigeria, specializing in building reli
 - **Currently Learning:** TypeScript, AWS (S3, Lambda), LangChain framework
 
 
-🗄️ **[Insert Your Main Project Name, e.g., E-Commerce Marketplace API]**
+🗄️ **Student Portal API**
 - A robust backend API built with Node.js, Express, and MongoDB featuring secure JWT authentication and route middleware protection.
 
-📋 **[Insert Your Second Project Name, e.g., Task Tracker Service]**
+📋 ****
 - A server-side data processing engine handling complex database logic, custom data validation, and automated error handling workflows.
 
 ---
