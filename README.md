@@ -16,10 +16,10 @@ I am a focused Backend Developer based in Nigeria, specializing in building reli
 
 
 🗄️ **Student Portal API**
-- A robust backend API built with Node.js, Express, and MongoDB featuring secure JWT authentication and route middleware protection.
+- A robust backend API built with Node.js, Express, and MongoDB featuring route middleware protection.
 
 📋 **Shopping Database API**
-- A server-side data processing engine handling complex database logic, custom data validation, and automated error handling workflows.
+- A server-side data processing engine featuring a secure JWT authentication, complex database logic, custom data validation and automated error handling workflows.
 
 ---
 
