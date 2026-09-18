@@ -4,18 +4,8 @@
 
 ### Junior Node.js & Backend Engineer
 
-<!-- Social Badges Section -->
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
-</a>
-<a href="mailto:emmanueljohnakande08@gmail.com">
-  <img src="https://shields.io" alt="Email" />
-</a>
-
-<br><br>
-
-<!-- Live Profile Views Counter -->
-<img src="https://komarev.com" alt="Profile Views" />
+<!-- Social Links Using Emojis (Guaranteed to Load) -->
+👔 **[Connect on LinkedIn](https://linkedin.com)** | 📧 **[Send an Email](mailto:emmanueljohnakande08@gmail.com)**
 
 </div>
 
