@@ -5,11 +5,17 @@
 ### Junior Node.js & Backend Engineer
 
 <!-- Social Badges Section -->
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/emmanuel-akande-john-286215402?utm_source=share&u)
-[![Email](https://shields.io)](mailto:emmanueljohnakande08@gmail.com)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="mailto:emmanueljohnakande08@gmail.com">
+  <img src="https://shields.io" alt="Email" />
+</a>
+
+<br><br>
 
 <!-- Live Profile Views Counter -->
-![](https://komarev.com)
+<img src="https://komarev.com" alt="Profile Views" />
 
 </div>
 
